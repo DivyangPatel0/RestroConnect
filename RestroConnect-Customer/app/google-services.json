@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "423888696828",
+    "firebase_url": "https://restroconnect-706da-default-rtdb.firebaseio.com",
+    "project_id": "restroconnect-706da",
+    "storage_bucket": "restroconnect-706da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423888696828:android:723b2b23d307691dc46e79",
+        "android_client_info": {
+          "package_name": "com.example.a110app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423888696828-cqk1enla83gfm8v64pn46c1r2i39pj1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTTvuqaGsFREr8Py1uFfZ6swudb73iM44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423888696828-cqk1enla83gfm8v64pn46c1r2i39pj1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423888696828:android:87f6f0e9b8f5f0dcc46e79",
+        "android_client_info": {
+          "package_name": "com.example.restroconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423888696828-cqk1enla83gfm8v64pn46c1r2i39pj1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTTvuqaGsFREr8Py1uFfZ6swudb73iM44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423888696828-cqk1enla83gfm8v64pn46c1r2i39pj1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423888696828:android:788c0eeef2acbe8cc46e79",
+        "android_client_info": {
+          "package_name": "com.example.restrodesk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423888696828-cqk1enla83gfm8v64pn46c1r2i39pj1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTTvuqaGsFREr8Py1uFfZ6swudb73iM44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423888696828-cqk1enla83gfm8v64pn46c1r2i39pj1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
