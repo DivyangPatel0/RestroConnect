@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:background="@drawable/restro"
+    tools:context="com.RestroConnect.myapp.MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="23dp"
+        android:layout_marginTop="92dp"
+        android:layout_marginEnd="59dp"
+        android:background="#00F9FBFB"
+        android:fontFamily="sans-serif-condensed-light"
+        android:shadowColor="#090808"
+        android:shadowDx="10"
+        android:shadowDy="12"
+        android:shadowRadius="5"
+        android:text="@string/RestroConnect"
+        android:textColor="@color/material_dynamic_primary90"
+        android:textSize="45sp"
+        android:textStyle="bold"
+        android:transitionName="logo_text" />
+</RelativeLayout>
+
+

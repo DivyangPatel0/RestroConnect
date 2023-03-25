@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">1.10app</string>
+    <string name="restroconnect">RestroConnect</string>
+    <string name="button">Button</string>
+    <string name="RestroConnect">RestroConnect</string>
+    <string name="name">Name</string>
+    <string name="restrologin">RestroLogin</string>
+</resources>

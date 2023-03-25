@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/appicon2"
+        android:label="@string/RestroConnect"
+        android:roundIcon="@drawable/appicon2"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.110app"
+        tools:targetApi="31">
+        <activity
+            android:name="com.RestroConnect.myapp.Menu_Display"
+            android:exported="false" />
+        <activity
+            android:name="com.RestroConnect.myapp.Menu_Edit"
+            android:exported="false" />
+        <activity
+            android:name="com.RestroConnect.myapp.Menu_Update"
+            android:exported="false" />
+        <activity
+            android:name="com.RestroConnect.myapp.Menu_Tab"
+            android:exported="false" />
+        <activity
+            android:name="com.RestroConnect.myapp.OTP_Chekin"
+            android:exported="false" />
+        <activity android:name="com.RestroConnect.myapp.Admin_Dash">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity android:name="com.RestroConnect.myapp.popUp">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="com.RestroConnect.myapp.Table_Tab"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="com.RestroConnect.myapp.sign_up"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="com.RestroConnect.myapp.Login"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="com.RestroConnect.myapp.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
